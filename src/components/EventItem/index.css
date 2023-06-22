@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.size {
+  height: 250px;
+  width: 400px;
+  border-radius: 5px;
+}
+.but9 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.con {
+  height: 255px;
+  width: 405px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+}
